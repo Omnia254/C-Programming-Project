@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680469015 source:c:\users\dell\documents\c tutorial\basic calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
