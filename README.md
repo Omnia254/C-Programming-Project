@@ -1,3 +1,3 @@
 # C-Programming-Project
 
-##1-Basic Calculator with C
+## 1-Basic Calculator with C
